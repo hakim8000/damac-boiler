@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boiler.damac-energie.be/sitemap.xml
