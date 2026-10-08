@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/guide-boiler-thermodynamique-damac.pdf
+
+Sitemap: https://boiler.damac-energie.be/sitemap.xml
